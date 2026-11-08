@@ -27,20 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT",
-			"file_size": 27360,
-			"file_write_time": 134386367613357453,
-			"settings":
-			{
-				"buffer_size": 26805,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -138,6 +124,7 @@
 	],
 	"file_history":
 	[
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF06/git_PULL.BAT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF06/ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF06/ZIP_7ZIP_INCREMENTALE_FILE_LOG.TXT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF06/git_LOG.txt",
@@ -264,12 +251,11 @@
 		"/Y/LAVORI_PUBBLICI_FINO_AL_30_09_2019/Valter/OPERE_PUBBLICHE/112_SETTORE_LAVORI_PUBBLICI/01_LAVORI_PUBBLICI/BDAP_PROGETTI/209_{MESSA IN SICUREZZA DEL FIUME COSA}_{W_R}/209_{MESSA IN SICUREZZA DEL FIUME COSA}.md",
 		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP./PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N26_SALARIO_ACCESSORIO/PEO_MICRO_ORGANIZZAZIONI/PEO/ORDINE_ALFABETICO_PEO_QryTb26_11_GROUP_TUTTE_LE_PEO_XANNO.MD",
 		"/J/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/FORM_CARICAMENTO_AUTOMATICO/Analisi/ANALISI_FORM_CARICAMENTO_AUTOMATICO.MD",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHVI_MDB/LLPP_GESTIONE/LPP_ANALISI/ATTI_TB01_GESTIONE/LLPP_ATTI_GESTIONE_Analisi_provisoria.txt",
-		"/C/CASA/CDM/GE_COND/ANAGR/ANAGR_ANALISI/ANAGR_TB04_PEC_EMAIL.md"
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHVI_MDB/LLPP_GESTIONE/LPP_ANALISI/ATTI_TB01_GESTIONE/LLPP_ATTI_GESTIONE_Analisi_provisoria.txt"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 44.8
 	},
 	"find_in_files":
 	{
@@ -284,6 +270,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"DF05",
 			"Msys_DF04",
 			"MSys_DF00"
 		],
@@ -308,38 +295,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 26805,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								166,
-								166
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Batch File/Batch File.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 89.6,
-						"translation.y": 276.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
